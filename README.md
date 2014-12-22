@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-THE SCHOOLE OF SKIL: Containing two Bookes: The first, of the Sphere, of heauen, of the Starres, of 
+
 1. To the Reader.
 
 #####Body#####
